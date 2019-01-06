@@ -86,6 +86,7 @@ a {
   height: 15px;
   background-color: #FF4949;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
+  -webkit-animation: move 3s infinite;
   animation: move 3s infinite;
 }
 
@@ -96,6 +97,7 @@ a {
   height: 15px;
   background-color: #F9D342;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
+  -webkit-animation: move 3s infinite;
   animation: move 3s infinite;
 }
 
@@ -106,6 +108,7 @@ a {
   height: 15px;
   background-color: #08CEE0;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
+  -webkit-animation: move 3s infinite;
   animation: move 3s infinite;
 }
 

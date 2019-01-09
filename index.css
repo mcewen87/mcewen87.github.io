@@ -81,7 +81,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("dinner.jpg");
+  background-image: url("dinner.JPG");
   background-size: cover;
 }
 
